@@ -136,15 +136,6 @@ Upcoming goals:
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=greenhood264&theme=tokyonight"/>
-
-</p>
-
----
 
 # 🏆 Codeforces
 
@@ -152,9 +143,6 @@ Upcoming goals:
 
 Profile:
 https://codeforces.com/profile/vivek_singh_45
-
-Current Rating:
-`YOUR_CODEFORCES_RATING`
 
 ---
 
